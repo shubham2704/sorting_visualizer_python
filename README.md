@@ -12,5 +12,5 @@ Sorting Visualizer is the visualising tool for sorting algorithms. In which you 
 
 ```
 pip install tkinter
-python sortingVisualizer.py
+python sort_visual.py
 ```
